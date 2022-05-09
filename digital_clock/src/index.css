@@ -1,0 +1,22 @@
+body
+{
+  background-color: black;
+}
+.clock
+{
+  font-family: sans-serif;
+  font-size: 40px;
+  margin:0 auto;
+  margin-top: 5%;
+  color:rgb(241, 237, 230)
+
+}
+
+.time
+{
+ color: white;
+}
+.date
+{
+  color:white
+}
